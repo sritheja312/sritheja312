@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Sass
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mail
-- 😄 Pronouns: Theja
+- 😄 Pronouns: Teja
 - ⚡ Fun fact: ...
 
 <!---
